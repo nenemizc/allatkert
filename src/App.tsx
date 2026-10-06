@@ -16,6 +16,9 @@ function App() {
         <List cim={allatok.cim} adat={allatok.adat}/>
         <List cim={taplalkozas.cim} adat={taplalkozas.adat}/>
       </div>
+      <div className="row mb-1" id="allatok">
+        
+      </div>
     </>
   )
 }
